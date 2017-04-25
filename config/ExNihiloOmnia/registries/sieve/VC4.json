@@ -1,0 +1,47 @@
+{
+  "recipes": [
+    {
+      "id": "minecraft:dirt",
+      "meta": 0,
+      "behavior": "meta_ignored",
+      "rewards": [
+        {
+          "id": "actuallyadditions:itemCoffeeSeed",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 10
+        },
+		{
+          "id": "actuallyadditions:itemRiceSeed",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 10
+        },
+		{
+          "id": "actuallyadditions:itemCanolaSeed",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 10
+        },
+		{
+          "id": "actuallyadditions:itemFlaxSeed",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 10
+        },
+		{
+          "id": "extrautils2:enderlilly",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 1
+        },
+		{
+          "id": "extrautils2:redorchid",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 1
+        }
+      ]
+    }
+  ]
+}

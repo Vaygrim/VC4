@@ -1,0 +1,4 @@
+#each ore should be lower case and be on a new line
+silver
+copper
+tin
