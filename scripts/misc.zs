@@ -14,3 +14,13 @@ recipes.addShaped(<integrateddynamics:menrilSapling> * 4,
 [[null, <ore:treeSapling>, null],
 [<ore:treeSapling>, <ore:gemLapis>, <ore:treeSapling>],
 [null, <ore:treeSapling>, null]]);
+
+recipes.addShaped(<actuallyadditions:itemMisc:5>,
+[[<minecraft:quartz>, <ore:coal>, null],
+[null, null, null],
+[null, null, null]]);
+
+recipes.addShaped(<actuallyadditions:itemMisc:5>,
+[[<minecraft:quartz>, <ore:charcoal>, null],
+[null, null, null],
+[null, null, null]]);
